@@ -1,0 +1,12 @@
+{
+  "name": "hellonode",
+  "description": "demo node.js application that starts up an http server",
+  "version": "0.1.0",
+  "author": "Marak Squires",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Marak/hellnode.git"
+  },
+  "engine": [ "node >=0.1.90" ],
+  "main": "lib/hellnode"
+}
