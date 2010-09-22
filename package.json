@@ -7,6 +7,5 @@
     "type": "git",
     "url": "http://github.com/Marak/hellnode.git"
   },
-  "engine": [ "node >=0.1.90" ],
-  "main": "lib/hellnode"
+  "engine": [ "node >=0.1.90" ]
 }
