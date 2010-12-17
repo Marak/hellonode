@@ -5,7 +5,7 @@
   "author": "Marak Squires",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/hellenode.git"
+    "url": "http://github.com/Marak/hellonode.git"
   },
   "engine": [ "node >=0.1.90" ]
 }
