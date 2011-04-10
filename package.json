@@ -7,5 +7,8 @@
     "type": "git",
     "url": "http://github.com/Marak/hellonode.git"
   },
+  "scripts": {
+    "start":"server.js"
+  },
   "engine": [ "node >=0.1.90" ]
 }
