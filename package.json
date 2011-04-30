@@ -1,6 +1,5 @@
 {
   "name": "hellonode",
-  "subdomain": "hellonode",
   "scripts": {
     "start": "server.js"
   },
