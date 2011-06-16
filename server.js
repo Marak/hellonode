@@ -5,3 +5,6 @@ http.createServer(function (req, res) {
   res.write('hello, i know nodejitsu.')
   res.end();
 }).listen(8000);
+
+
+console.log('> http server has started on port 8000');
