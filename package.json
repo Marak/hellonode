@@ -4,5 +4,9 @@
     "start": "server.js"
   },
   "main" : "./server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marak/hellonode.git"
+  },
   "version": "0.0.0"
 }
